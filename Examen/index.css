@@ -1,0 +1,79 @@
+.container {
+display: flex;
+background-color: rgba(49, 45, 47, 0.808);
+
+}
+.titulo {
+    color: rgb(255, 255, 255);
+}
+.opciones {
+    color: rgb(4, 17, 29);
+}
+
+.pico {
+    border-color: black;
+    border-top: 10px;
+    border-radius: 20px;
+    border-bottom: 20 px;
+    border-left: black;
+}
+
+.encalonado {
+    border-color: black;
+    width: 50%;
+}
+
+
+.campana {
+    border-color: black;
+}
+
+
+.parrafo {
+    background-color: rgba(49, 45, 47, 0.808);
+}
+
+.parrafo1 {
+color: white;
+}
+
+.espacio {
+    background-color: white;
+}
+
+.parrafo2 {
+
+background-color: rgba(49, 45, 47, 0.808);
+}
+
+.titulo2 {
+    color: white;
+}
+
+.parrafoDos {
+    color: white;
+}
+
+.parrafo3 {
+    background-color: rgba(49, 45, 47, 0.808);
+}
+
+.titulo3 {
+
+color: white;
+}
+
+.parrafo3 {
+    color: white;
+
+}
+
+.contenedor4 {
+    background-color: rgba(49, 45, 47, 0.808);
+}
+.titulo4 {
+    color: white;
+}
+.parrafo4 {
+    color: white;
+}
